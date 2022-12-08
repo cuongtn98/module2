@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa3bf69a-bd3a-4375-99a3-3d9f63ea8f34" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhuongTrinhBacHai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecTangLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SNT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baiungdung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/giatriusd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gtln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gtnl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kgnang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ktrnam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/songuyento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timtentrongmang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timuoclon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinhtienvaylai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vehinh.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,37 +69,48 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.month">
-    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DateTime" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PhuongTrinhBacHai">
+    <configuration name="PhuongTrinhBacHai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhuongTrinhBacHai" />
       <module name="module2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="RecTangLe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecTangLe" />
       <module name="module2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="month" />
+    <configuration name="StopWatch (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StopWatch" />
       <module name="module2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="phuntrinhbacnhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phuntrinhbacnhat" />
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classandobject.StopWatch" />
       <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classandobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="toantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toantu" />
+    <configuration name="TimeChay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeChay" />
       <module name="module2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.month" />
-        <item itemvalue="Application.phuntrinhbacnhat" />
-        <item itemvalue="Application.toantu" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DateTime" />
+        <item itemvalue="Application.PhuongTrinhBacHai" />
+        <item itemvalue="Application.RecTangLe" />
+        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.StopWatch (1)" />
+        <item itemvalue="Application.TimeChay" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +135,12 @@
       <option name="presentableId" value="Default" />
       <updated>1669973201071</updated>
       <workItem from="1669973202209" duration="3153000" />
-      <workItem from="1670169673079" duration="6342000" />
+      <workItem from="1670169673079" duration="9357000" />
+      <workItem from="1670211984980" duration="8373000" />
+      <workItem from="1670249324459" duration="896000" />
+      <workItem from="1670288747722" duration="10182000" />
+      <workItem from="1670341530302" duration="16916000" />
+      <workItem from="1670461229733" duration="3272000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1670205530603</created>
@@ -157,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670206031892</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1670207564189</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670207564189</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
